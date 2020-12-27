@@ -25,7 +25,7 @@ Thank you.
     
 ## 2.Prepare datasets and the pre-trained model: please refer to https://github.com/michuanhaohao/reid-strong-baseline
 
-## 3. run the training file:
+## 3.Run the training file:
         python tools/train_stage_1.py (for the first stage)
         python tools/train_stage_2.py (for the second stage)
 
