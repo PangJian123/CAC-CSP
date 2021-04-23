@@ -2,7 +2,7 @@
 
 This package contains the source code which is associated with the following paper:
 
-Huafeng Li, Jian Pang, Zhengtao Yu, and Dapeng Tao, “Cross Adversarial Consistency Self-Prediction Learning for Unsupervised Domain Adaptation Person Re-Identification.” Elsevier:Information Sciences, 2020.(under review)
+Huafeng Li, Jian Pang, Zhengtao Yu, and Dapeng Tao, Cross Adversarial Consistency Self-Prediction Learning for Unsupervised Domain Adaptation Person Re-Identification[J]. Information Sciences, 2021, 559: 46-60.
 
 Edited by Jian Pang
 
